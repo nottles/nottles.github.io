@@ -1,6 +1,5 @@
 body{
     background-color: #d5e1ef;
-    font-family: Outfit;
 }
 
 .box{
@@ -14,8 +13,8 @@ body{
     margin-left: -150px;
     top: 50%;
     margin-top: -220px;
-    box-shadow: 5px, 5px, 10px, black;
     text-align: center;
+    filter: drop-shadow(10px 10px 30px #bbc7d3);
 }
 
 p{
